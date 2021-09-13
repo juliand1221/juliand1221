@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**juliand1221/juliand1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Programming
 - 👯 
 - 🤔 I’m looking for help with Git, HTTML, Python, Java
